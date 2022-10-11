@@ -1,0 +1,542 @@
+book,index,negative,positive,sentiment
+Philosopher's Stone,0,71,28,-0.43
+Philosopher's Stone,1,63,37,-0.26
+Philosopher's Stone,2,76,24,-0.52
+Philosopher's Stone,3,74,26,-0.48
+Philosopher's Stone,4,75,25,-0.5
+Philosopher's Stone,5,78,22,-0.56
+Philosopher's Stone,6,69,31,-0.38
+Philosopher's Stone,7,51,49,-0.02
+Philosopher's Stone,8,58,42,-0.16
+Philosopher's Stone,9,52,48,-0.04
+Philosopher's Stone,10,62,38,-0.24
+Philosopher's Stone,11,64,36,-0.28
+Philosopher's Stone,12,52,48,-0.04
+Philosopher's Stone,13,70,30,-0.4
+Philosopher's Stone,14,73,27,-0.46
+Philosopher's Stone,15,68,32,-0.36
+Philosopher's Stone,16,72,28,-0.44
+Philosopher's Stone,17,54,46,-0.08
+Philosopher's Stone,18,81,19,-0.62
+Philosopher's Stone,19,60,40,-0.2
+Philosopher's Stone,20,72,28,-0.44
+Philosopher's Stone,21,67,33,-0.34
+Philosopher's Stone,22,67,33,-0.34
+Philosopher's Stone,23,40,60,0.2
+Philosopher's Stone,24,58,42,-0.16
+Philosopher's Stone,25,72,28,-0.44
+Philosopher's Stone,26,74,26,-0.48
+Philosopher's Stone,27,82,18,-0.64
+Philosopher's Stone,28,67,33,-0.34
+Philosopher's Stone,29,82,18,-0.64
+Philosopher's Stone,30,68,32,-0.36
+Philosopher's Stone,31,76,24,-0.52
+Philosopher's Stone,32,71,29,-0.42
+Philosopher's Stone,33,56,44,-0.12
+Chamber of Secrets,34,53,18,-0.35
+Philosopher's Stone,34,17,12,-0.05
+Chamber of Secrets,35,63,37,-0.26
+Chamber of Secrets,36,72,28,-0.44
+Chamber of Secrets,37,69,31,-0.38
+Chamber of Secrets,38,65,35,-0.3
+Chamber of Secrets,39,66,34,-0.32
+Chamber of Secrets,40,65,35,-0.3
+Chamber of Secrets,41,53,47,-0.06
+Chamber of Secrets,42,80,20,-0.6
+Chamber of Secrets,43,71,29,-0.42
+Chamber of Secrets,44,62,38,-0.24
+Chamber of Secrets,45,66,34,-0.32
+Chamber of Secrets,46,55,45,-0.1
+Chamber of Secrets,47,73,27,-0.46
+Chamber of Secrets,48,63,37,-0.26
+Chamber of Secrets,49,59,41,-0.18
+Chamber of Secrets,50,72,28,-0.44
+Chamber of Secrets,51,71,29,-0.42
+Chamber of Secrets,52,63,37,-0.26
+Chamber of Secrets,53,87,13,-0.74
+Chamber of Secrets,54,72,28,-0.44
+Chamber of Secrets,55,79,21,-0.58
+Chamber of Secrets,56,78,22,-0.56
+Chamber of Secrets,57,64,36,-0.28
+Chamber of Secrets,58,83,17,-0.66
+Chamber of Secrets,59,77,23,-0.54
+Chamber of Secrets,60,60,40,-0.2
+Chamber of Secrets,61,73,27,-0.46
+Chamber of Secrets,62,66,34,-0.32
+Chamber of Secrets,63,59,41,-0.18
+Chamber of Secrets,64,82,18,-0.64
+Chamber of Secrets,65,70,30,-0.4
+Chamber of Secrets,66,75,25,-0.5
+Chamber of Secrets,67,76,24,-0.52
+Chamber of Secrets,68,81,19,-0.62
+Chamber of Secrets,69,65,35,-0.3
+Chamber of Secrets,70,79,21,-0.58
+Chamber of Secrets,71,77,23,-0.54
+Chamber of Secrets,72,61,39,-0.22
+Chamber of Secrets,73,71,29,-0.42
+Chamber of Secrets,74,64,36,-0.28
+Chamber of Secrets,75,51,49,-0.02
+Prisoner of Azkaban,76,23,12,-0.11
+Chamber of Secrets,76,45,20,-0.25
+Prisoner of Azkaban,77,62,38,-0.24
+Prisoner of Azkaban,78,61,39,-0.22
+Prisoner of Azkaban,79,68,32,-0.36
+Prisoner of Azkaban,80,77,23,-0.54
+Prisoner of Azkaban,81,69,31,-0.38
+Prisoner of Azkaban,82,74,26,-0.48
+Prisoner of Azkaban,83,58,42,-0.16
+Prisoner of Azkaban,84,56,44,-0.12
+Prisoner of Azkaban,85,70,30,-0.4
+Prisoner of Azkaban,86,85,15,-0.7
+Prisoner of Azkaban,87,56,44,-0.12
+Prisoner of Azkaban,88,70,30,-0.4
+Prisoner of Azkaban,89,74,26,-0.48
+Prisoner of Azkaban,90,69,31,-0.38
+Prisoner of Azkaban,91,69,31,-0.38
+Prisoner of Azkaban,92,73,27,-0.46
+Prisoner of Azkaban,93,73,27,-0.46
+Prisoner of Azkaban,94,73,27,-0.46
+Prisoner of Azkaban,95,73,27,-0.46
+Prisoner of Azkaban,96,67,33,-0.34
+Prisoner of Azkaban,97,83,17,-0.66
+Prisoner of Azkaban,98,70,30,-0.4
+Prisoner of Azkaban,99,57,43,-0.14
+Prisoner of Azkaban,100,65,35,-0.3
+Prisoner of Azkaban,101,80,20,-0.6
+Prisoner of Azkaban,102,66,34,-0.32
+Prisoner of Azkaban,103,69,31,-0.38
+Prisoner of Azkaban,104,54,46,-0.08
+Prisoner of Azkaban,105,67,33,-0.34
+Prisoner of Azkaban,106,57,43,-0.14
+Prisoner of Azkaban,107,71,29,-0.42
+Prisoner of Azkaban,108,72,28,-0.44
+Prisoner of Azkaban,109,64,36,-0.28
+Prisoner of Azkaban,110,75,25,-0.5
+Prisoner of Azkaban,111,64,36,-0.28
+Prisoner of Azkaban,112,65,35,-0.3
+Prisoner of Azkaban,113,69,31,-0.38
+Prisoner of Azkaban,114,82,18,-0.64
+Prisoner of Azkaban,115,82,18,-0.64
+Prisoner of Azkaban,116,77,23,-0.54
+Prisoner of Azkaban,117,72,28,-0.44
+Prisoner of Azkaban,118,81,19,-0.62
+Prisoner of Azkaban,119,75,25,-0.5
+Prisoner of Azkaban,120,86,14,-0.72
+Prisoner of Azkaban,121,72,28,-0.44
+Prisoner of Azkaban,122,69,31,-0.38
+Prisoner of Azkaban,123,69,31,-0.38
+Prisoner of Azkaban,124,69,31,-0.38
+Prisoner of Azkaban,125,51,49,-0.02
+Goblet of Fire,126,76,22,-0.54
+Prisoner of Azkaban,126,0,2,0.02
+Goblet of Fire,127,73,27,-0.46
+Goblet of Fire,128,81,19,-0.62
+Goblet of Fire,129,71,29,-0.42
+Goblet of Fire,130,78,22,-0.56
+Goblet of Fire,131,68,32,-0.36
+Goblet of Fire,132,73,27,-0.46
+Goblet of Fire,133,74,26,-0.48
+Goblet of Fire,134,55,45,-0.1
+Goblet of Fire,135,54,46,-0.08
+Goblet of Fire,136,50,50,0
+Goblet of Fire,137,46,54,0.08
+Goblet of Fire,138,45,55,0.1
+Goblet of Fire,139,60,40,-0.2
+Goblet of Fire,140,64,36,-0.28
+Goblet of Fire,141,79,21,-0.58
+Goblet of Fire,142,77,23,-0.54
+Goblet of Fire,143,76,24,-0.52
+Goblet of Fire,144,80,20,-0.6
+Goblet of Fire,145,74,26,-0.48
+Goblet of Fire,146,61,39,-0.22
+Goblet of Fire,147,57,43,-0.14
+Goblet of Fire,148,67,33,-0.34
+Goblet of Fire,149,52,48,-0.04
+Goblet of Fire,150,66,34,-0.32
+Goblet of Fire,151,85,15,-0.7
+Goblet of Fire,152,70,30,-0.4
+Goblet of Fire,153,78,22,-0.56
+Goblet of Fire,154,78,22,-0.56
+Goblet of Fire,155,71,29,-0.42
+Goblet of Fire,156,65,35,-0.3
+Goblet of Fire,157,48,52,0.04
+Goblet of Fire,158,46,54,0.08
+Goblet of Fire,159,54,46,-0.08
+Goblet of Fire,160,63,37,-0.26
+Goblet of Fire,161,73,27,-0.46
+Goblet of Fire,162,63,37,-0.26
+Goblet of Fire,163,68,32,-0.36
+Goblet of Fire,164,53,47,-0.06
+Goblet of Fire,165,63,37,-0.26
+Goblet of Fire,166,61,39,-0.22
+Goblet of Fire,167,59,41,-0.18
+Goblet of Fire,168,74,26,-0.48
+Goblet of Fire,169,75,25,-0.5
+Goblet of Fire,170,58,42,-0.16
+Goblet of Fire,171,55,45,-0.1
+Goblet of Fire,172,63,37,-0.26
+Goblet of Fire,173,63,37,-0.26
+Goblet of Fire,174,61,39,-0.22
+Goblet of Fire,175,53,47,-0.06
+Goblet of Fire,176,65,35,-0.3
+Goblet of Fire,177,50,50,0
+Goblet of Fire,178,56,44,-0.12
+Goblet of Fire,179,65,35,-0.3
+Goblet of Fire,180,65,35,-0.3
+Goblet of Fire,181,59,41,-0.18
+Goblet of Fire,182,73,27,-0.46
+Goblet of Fire,183,60,40,-0.2
+Goblet of Fire,184,81,19,-0.62
+Goblet of Fire,185,82,18,-0.64
+Goblet of Fire,186,67,33,-0.34
+Goblet of Fire,187,59,41,-0.18
+Goblet of Fire,188,80,20,-0.6
+Goblet of Fire,189,65,35,-0.3
+Goblet of Fire,190,66,34,-0.32
+Goblet of Fire,191,80,20,-0.6
+Goblet of Fire,192,73,27,-0.46
+Goblet of Fire,193,70,30,-0.4
+Goblet of Fire,194,64,36,-0.28
+Goblet of Fire,195,66,34,-0.32
+Goblet of Fire,196,72,28,-0.44
+Goblet of Fire,197,74,26,-0.48
+Goblet of Fire,198,67,33,-0.34
+Goblet of Fire,199,70,30,-0.4
+Goblet of Fire,200,82,18,-0.64
+Goblet of Fire,201,62,38,-0.24
+Goblet of Fire,202,81,19,-0.62
+Goblet of Fire,203,71,29,-0.42
+Goblet of Fire,204,68,32,-0.36
+Goblet of Fire,205,78,22,-0.56
+Goblet of Fire,206,75,25,-0.5
+Goblet of Fire,207,74,26,-0.48
+Goblet of Fire,208,58,42,-0.16
+Goblet of Fire,209,66,34,-0.32
+Goblet of Fire,210,70,30,-0.4
+Goblet of Fire,211,78,22,-0.56
+Goblet of Fire,212,73,27,-0.46
+Goblet of Fire,213,78,22,-0.56
+Goblet of Fire,214,61,39,-0.22
+Goblet of Fire,215,50,50,0
+Goblet of Fire,216,62,38,-0.24
+Goblet of Fire,217,76,24,-0.52
+Goblet of Fire,218,74,26,-0.48
+Goblet of Fire,219,59,41,-0.18
+Order of the Phoenix,220,1,1,0
+Goblet of Fire,220,67,31,-0.36
+Order of the Phoenix,221,71,29,-0.42
+Order of the Phoenix,222,72,28,-0.44
+Order of the Phoenix,223,79,21,-0.58
+Order of the Phoenix,224,79,21,-0.58
+Order of the Phoenix,225,68,32,-0.36
+Order of the Phoenix,226,74,26,-0.48
+Order of the Phoenix,227,79,21,-0.58
+Order of the Phoenix,228,77,23,-0.54
+Order of the Phoenix,229,65,35,-0.3
+Order of the Phoenix,230,81,19,-0.62
+Order of the Phoenix,231,71,29,-0.42
+Order of the Phoenix,232,65,35,-0.3
+Order of the Phoenix,233,82,18,-0.64
+Order of the Phoenix,234,74,26,-0.48
+Order of the Phoenix,235,67,33,-0.34
+Order of the Phoenix,236,76,24,-0.52
+Order of the Phoenix,237,72,28,-0.44
+Order of the Phoenix,238,63,37,-0.26
+Order of the Phoenix,239,68,32,-0.36
+Order of the Phoenix,240,49,51,0.02
+Order of the Phoenix,241,61,39,-0.22
+Order of the Phoenix,242,71,29,-0.42
+Order of the Phoenix,243,63,37,-0.26
+Order of the Phoenix,244,68,32,-0.36
+Order of the Phoenix,245,66,34,-0.32
+Order of the Phoenix,246,65,35,-0.3
+Order of the Phoenix,247,85,15,-0.7
+Order of the Phoenix,248,80,20,-0.6
+Order of the Phoenix,249,66,34,-0.32
+Order of the Phoenix,250,71,29,-0.42
+Order of the Phoenix,251,67,33,-0.34
+Order of the Phoenix,252,51,49,-0.02
+Order of the Phoenix,253,73,27,-0.46
+Order of the Phoenix,254,58,42,-0.16
+Order of the Phoenix,255,68,32,-0.36
+Order of the Phoenix,256,76,24,-0.52
+Order of the Phoenix,257,72,28,-0.44
+Order of the Phoenix,258,62,38,-0.24
+Order of the Phoenix,259,72,28,-0.44
+Order of the Phoenix,260,65,35,-0.3
+Order of the Phoenix,261,68,32,-0.36
+Order of the Phoenix,262,62,38,-0.24
+Order of the Phoenix,263,68,32,-0.36
+Order of the Phoenix,264,72,28,-0.44
+Order of the Phoenix,265,61,39,-0.22
+Order of the Phoenix,266,68,32,-0.36
+Order of the Phoenix,267,74,26,-0.48
+Order of the Phoenix,268,71,29,-0.42
+Order of the Phoenix,269,65,35,-0.3
+Order of the Phoenix,270,69,31,-0.38
+Order of the Phoenix,271,78,22,-0.56
+Order of the Phoenix,272,71,29,-0.42
+Order of the Phoenix,273,69,31,-0.38
+Order of the Phoenix,274,57,43,-0.14
+Order of the Phoenix,275,63,37,-0.26
+Order of the Phoenix,276,66,34,-0.32
+Order of the Phoenix,277,61,39,-0.22
+Order of the Phoenix,278,75,25,-0.5
+Order of the Phoenix,279,78,22,-0.56
+Order of the Phoenix,280,62,38,-0.24
+Order of the Phoenix,281,74,26,-0.48
+Order of the Phoenix,282,76,24,-0.52
+Order of the Phoenix,283,74,26,-0.48
+Order of the Phoenix,284,66,34,-0.32
+Order of the Phoenix,285,69,31,-0.38
+Order of the Phoenix,286,69,31,-0.38
+Order of the Phoenix,287,74,26,-0.48
+Order of the Phoenix,288,68,32,-0.36
+Order of the Phoenix,289,70,30,-0.4
+Order of the Phoenix,290,60,40,-0.2
+Order of the Phoenix,291,63,37,-0.26
+Order of the Phoenix,292,63,37,-0.26
+Order of the Phoenix,293,65,35,-0.3
+Order of the Phoenix,294,69,31,-0.38
+Order of the Phoenix,295,78,22,-0.56
+Order of the Phoenix,296,66,34,-0.32
+Order of the Phoenix,297,77,23,-0.54
+Order of the Phoenix,298,76,24,-0.52
+Order of the Phoenix,299,59,41,-0.18
+Order of the Phoenix,300,67,33,-0.34
+Order of the Phoenix,301,68,32,-0.36
+Order of the Phoenix,302,58,42,-0.16
+Order of the Phoenix,303,83,17,-0.66
+Order of the Phoenix,304,68,32,-0.36
+Order of the Phoenix,305,62,38,-0.24
+Order of the Phoenix,306,62,38,-0.24
+Order of the Phoenix,307,71,29,-0.42
+Order of the Phoenix,308,73,27,-0.46
+Order of the Phoenix,309,81,19,-0.62
+Order of the Phoenix,310,56,44,-0.12
+Order of the Phoenix,311,65,35,-0.3
+Order of the Phoenix,312,65,35,-0.3
+Order of the Phoenix,313,59,41,-0.18
+Order of the Phoenix,314,70,30,-0.4
+Order of the Phoenix,315,69,31,-0.38
+Order of the Phoenix,316,64,36,-0.28
+Order of the Phoenix,317,68,32,-0.36
+Order of the Phoenix,318,76,24,-0.52
+Order of the Phoenix,319,72,28,-0.44
+Order of the Phoenix,320,56,44,-0.12
+Order of the Phoenix,321,58,42,-0.16
+Order of the Phoenix,322,68,32,-0.36
+Order of the Phoenix,323,76,24,-0.52
+Order of the Phoenix,324,71,29,-0.42
+Order of the Phoenix,325,76,24,-0.52
+Order of the Phoenix,326,67,33,-0.34
+Order of the Phoenix,327,75,25,-0.5
+Order of the Phoenix,328,73,27,-0.46
+Order of the Phoenix,329,62,38,-0.24
+Order of the Phoenix,330,66,34,-0.32
+Order of the Phoenix,331,74,26,-0.48
+Order of the Phoenix,332,86,14,-0.72
+Order of the Phoenix,333,80,20,-0.6
+Order of the Phoenix,334,81,19,-0.62
+Order of the Phoenix,335,79,21,-0.58
+Order of the Phoenix,336,81,19,-0.62
+Order of the Phoenix,337,69,31,-0.38
+Order of the Phoenix,338,67,33,-0.34
+Order of the Phoenix,339,67,33,-0.34
+Order of the Phoenix,340,73,27,-0.46
+Order of the Phoenix,341,65,35,-0.3
+Order of the Phoenix,342,71,29,-0.42
+Order of the Phoenix,343,73,27,-0.46
+Order of the Phoenix,344,79,21,-0.58
+Half-Blood Prince,345,24,3,-0.21
+Order of the Phoenix,345,47,26,-0.21
+Half-Blood Prince,346,72,28,-0.44
+Half-Blood Prince,347,87,13,-0.74
+Half-Blood Prince,348,68,32,-0.36
+Half-Blood Prince,349,79,21,-0.58
+Half-Blood Prince,350,71,29,-0.42
+Half-Blood Prince,351,71,29,-0.42
+Half-Blood Prince,352,67,33,-0.34
+Half-Blood Prince,353,65,35,-0.3
+Half-Blood Prince,354,72,28,-0.44
+Half-Blood Prince,355,68,32,-0.36
+Half-Blood Prince,356,63,37,-0.26
+Half-Blood Prince,357,58,42,-0.16
+Half-Blood Prince,358,59,41,-0.18
+Half-Blood Prince,359,67,33,-0.34
+Half-Blood Prince,360,61,39,-0.22
+Half-Blood Prince,361,54,46,-0.08
+Half-Blood Prince,362,51,49,-0.02
+Half-Blood Prince,363,72,28,-0.44
+Half-Blood Prince,364,62,38,-0.24
+Half-Blood Prince,365,65,35,-0.3
+Half-Blood Prince,366,77,23,-0.54
+Half-Blood Prince,367,63,37,-0.26
+Half-Blood Prince,368,55,45,-0.1
+Half-Blood Prince,369,55,45,-0.1
+Half-Blood Prince,370,50,50,0
+Half-Blood Prince,371,48,52,0.04
+Half-Blood Prince,372,75,25,-0.5
+Half-Blood Prince,373,80,20,-0.6
+Half-Blood Prince,374,73,27,-0.46
+Half-Blood Prince,375,61,39,-0.22
+Half-Blood Prince,376,64,36,-0.28
+Half-Blood Prince,377,73,27,-0.46
+Half-Blood Prince,378,60,40,-0.2
+Half-Blood Prince,379,81,19,-0.62
+Half-Blood Prince,380,56,44,-0.12
+Half-Blood Prince,381,60,40,-0.2
+Half-Blood Prince,382,69,31,-0.38
+Half-Blood Prince,383,71,29,-0.42
+Half-Blood Prince,384,67,33,-0.34
+Half-Blood Prince,385,62,38,-0.24
+Half-Blood Prince,386,61,39,-0.22
+Half-Blood Prince,387,58,42,-0.16
+Half-Blood Prince,388,64,36,-0.28
+Half-Blood Prince,389,56,44,-0.12
+Half-Blood Prince,390,49,51,0.02
+Half-Blood Prince,391,55,45,-0.1
+Half-Blood Prince,392,45,55,0.1
+Half-Blood Prince,393,79,21,-0.58
+Half-Blood Prince,394,57,43,-0.14
+Half-Blood Prince,395,75,25,-0.5
+Half-Blood Prince,396,73,27,-0.46
+Half-Blood Prince,397,58,42,-0.16
+Half-Blood Prince,398,80,20,-0.6
+Half-Blood Prince,399,62,38,-0.24
+Half-Blood Prince,400,70,30,-0.4
+Half-Blood Prince,401,62,38,-0.24
+Half-Blood Prince,402,48,52,0.04
+Half-Blood Prince,403,59,41,-0.18
+Half-Blood Prince,404,61,39,-0.22
+Half-Blood Prince,405,64,36,-0.28
+Half-Blood Prince,406,62,38,-0.24
+Half-Blood Prince,407,55,45,-0.1
+Half-Blood Prince,408,66,34,-0.32
+Half-Blood Prince,409,61,39,-0.22
+Half-Blood Prince,410,68,32,-0.36
+Half-Blood Prince,411,44,56,0.12
+Half-Blood Prince,412,60,40,-0.2
+Half-Blood Prince,413,70,30,-0.4
+Half-Blood Prince,414,66,34,-0.32
+Half-Blood Prince,415,61,39,-0.22
+Half-Blood Prince,416,76,24,-0.52
+Half-Blood Prince,417,63,37,-0.26
+Half-Blood Prince,418,67,33,-0.34
+Half-Blood Prince,419,72,28,-0.44
+Half-Blood Prince,420,81,19,-0.62
+Half-Blood Prince,421,75,25,-0.5
+Half-Blood Prince,422,74,26,-0.48
+Half-Blood Prince,423,82,18,-0.64
+Half-Blood Prince,424,92,8,-0.84
+Half-Blood Prince,425,90,10,-0.8
+Half-Blood Prince,426,84,16,-0.68
+Half-Blood Prince,427,78,22,-0.56
+Half-Blood Prince,428,73,27,-0.46
+Half-Blood Prince,429,75,25,-0.5
+Deathly Hallows,430,4,1,-0.03
+Half-Blood Prince,430,65,30,-0.35
+Deathly Hallows,431,64,36,-0.28
+Deathly Hallows,432,70,30,-0.4
+Deathly Hallows,433,57,43,-0.14
+Deathly Hallows,434,52,48,-0.04
+Deathly Hallows,435,67,33,-0.34
+Deathly Hallows,436,62,38,-0.24
+Deathly Hallows,437,56,44,-0.12
+Deathly Hallows,438,75,25,-0.5
+Deathly Hallows,439,89,11,-0.78
+Deathly Hallows,440,78,22,-0.56
+Deathly Hallows,441,75,25,-0.5
+Deathly Hallows,442,74,26,-0.48
+Deathly Hallows,443,85,15,-0.7
+Deathly Hallows,444,69,31,-0.38
+Deathly Hallows,445,72,28,-0.44
+Deathly Hallows,446,48,52,0.04
+Deathly Hallows,447,48,52,0.04
+Deathly Hallows,448,64,36,-0.28
+Deathly Hallows,449,55,45,-0.1
+Deathly Hallows,450,44,56,0.12
+Deathly Hallows,451,63,37,-0.26
+Deathly Hallows,452,68,32,-0.36
+Deathly Hallows,453,83,17,-0.66
+Deathly Hallows,454,82,18,-0.64
+Deathly Hallows,455,49,51,0.02
+Deathly Hallows,456,67,33,-0.34
+Deathly Hallows,457,70,30,-0.4
+Deathly Hallows,458,72,28,-0.44
+Deathly Hallows,459,61,39,-0.22
+Deathly Hallows,460,67,33,-0.34
+Deathly Hallows,461,59,41,-0.18
+Deathly Hallows,462,64,36,-0.28
+Deathly Hallows,463,53,47,-0.06
+Deathly Hallows,464,67,33,-0.34
+Deathly Hallows,465,74,26,-0.48
+Deathly Hallows,466,75,25,-0.5
+Deathly Hallows,467,72,28,-0.44
+Deathly Hallows,468,79,21,-0.58
+Deathly Hallows,469,72,28,-0.44
+Deathly Hallows,470,64,36,-0.28
+Deathly Hallows,471,81,19,-0.62
+Deathly Hallows,472,71,29,-0.42
+Deathly Hallows,473,71,29,-0.42
+Deathly Hallows,474,69,31,-0.38
+Deathly Hallows,475,79,21,-0.58
+Deathly Hallows,476,82,18,-0.64
+Deathly Hallows,477,76,24,-0.52
+Deathly Hallows,478,68,32,-0.36
+Deathly Hallows,479,72,28,-0.44
+Deathly Hallows,480,64,36,-0.28
+Deathly Hallows,481,74,26,-0.48
+Deathly Hallows,482,63,37,-0.26
+Deathly Hallows,483,70,30,-0.4
+Deathly Hallows,484,62,38,-0.24
+Deathly Hallows,485,73,27,-0.46
+Deathly Hallows,486,71,29,-0.42
+Deathly Hallows,487,76,24,-0.52
+Deathly Hallows,488,67,33,-0.34
+Deathly Hallows,489,67,33,-0.34
+Deathly Hallows,490,62,38,-0.24
+Deathly Hallows,491,75,25,-0.5
+Deathly Hallows,492,75,25,-0.5
+Deathly Hallows,493,84,16,-0.68
+Deathly Hallows,494,86,14,-0.72
+Deathly Hallows,495,63,37,-0.26
+Deathly Hallows,496,68,32,-0.36
+Deathly Hallows,497,70,30,-0.4
+Deathly Hallows,498,71,29,-0.42
+Deathly Hallows,499,65,35,-0.3
+Deathly Hallows,500,57,43,-0.14
+Deathly Hallows,501,74,26,-0.48
+Deathly Hallows,502,72,28,-0.44
+Deathly Hallows,503,66,34,-0.32
+Deathly Hallows,504,79,21,-0.58
+Deathly Hallows,505,77,23,-0.54
+Deathly Hallows,506,69,31,-0.38
+Deathly Hallows,507,62,38,-0.24
+Deathly Hallows,508,60,40,-0.2
+Deathly Hallows,509,60,40,-0.2
+Deathly Hallows,510,78,22,-0.56
+Deathly Hallows,511,71,29,-0.42
+Deathly Hallows,512,64,36,-0.28
+Deathly Hallows,513,73,27,-0.46
+Deathly Hallows,514,74,26,-0.48
+Deathly Hallows,515,85,15,-0.7
+Deathly Hallows,516,75,25,-0.5
+Deathly Hallows,517,80,20,-0.6
+Deathly Hallows,518,67,33,-0.34
+Deathly Hallows,519,76,24,-0.52
+Deathly Hallows,520,75,25,-0.5
+Deathly Hallows,521,74,26,-0.48
+Deathly Hallows,522,75,25,-0.5
+Deathly Hallows,523,71,29,-0.42
+Deathly Hallows,524,66,34,-0.32
+Deathly Hallows,525,67,33,-0.34
+Deathly Hallows,526,61,39,-0.22
+Deathly Hallows,527,63,37,-0.26
+Deathly Hallows,528,69,31,-0.38
+Deathly Hallows,529,73,27,-0.46
+Deathly Hallows,530,71,29,-0.42
+Deathly Hallows,531,71,29,-0.42
+Deathly Hallows,532,60,40,-0.2
+Deathly Hallows,533,60,40,-0.2
+Deathly Hallows,534,3,1,-0.02
