@@ -1,0 +1,35 @@
+---
+title: "Shiny Proposal Template"
+output: 
+  pdf_document:
+    fig_height: 3
+    fig_width: 5
+---
+
+```{r include = FALSE}
+library(kableExtra)
+```
+
+<!-- Change the title to "Shiny Proposal for Group A# or B#", depending on your section, with your # -->
+
+<!-- For the Revised proposal, add "Revised" to the title -->
+
+Group name: 
+
+<!-- The group name will be used as the name of your group repo for both group projects. -->
+
+Title: 
+
+<!-- The tentative title of your shiny project -->
+
+# Purpose
+
+<!-- Describe the general topic/phenomena you want to explore, as well as some questions that you hope to address. -->
+
+# Data 
+
+<!-- Identify one or more data sources that could be used in the project. What form is the data in (downloadable csv file? needs to be scraped from web?)? What do you imagine will be challenging about ingesting and/or wrangling the data? -->
+
+# Shiny app
+
+<!-- Describe some visualizations, tables, and/or other components you envision including in your Shiny app. What will the interactive components be? -->

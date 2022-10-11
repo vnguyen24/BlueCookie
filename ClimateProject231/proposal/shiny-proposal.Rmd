@@ -1,0 +1,45 @@
+---
+title: "Shiny Proposal for Group B8"
+output: 
+  pdf_document:
+    fig_height: 3
+    fig_width: 5
+---
+
+```{r include = FALSE}
+library(kableExtra)
+```
+
+<!-- Change the title to "Shiny Proposal for Group A# or B#", depending on your section, with your # -->
+
+<!-- For the Revised proposal, add "Revised" to the title -->
+
+Group name: Blue Cookie
+
+<!-- The group name will be used as the name of your group repo for both group projects. -->
+
+Title: The Climate of Boston over Time
+
+<!-- The tentative title of your shiny project -->
+
+# Purpose
+
+<!-- Describe the general topic/phenomena you want to explore, as well as some questions that you hope to address. -->
+
+We would like to explore how the climate and temperature change in a given location over the years. Perhaps we could add more locations for comparisons. For example, we could analyze at Boston with questions such as: Is there a trend in temperature increasing? If so, how visible is the change? Or how much does the temperature vary over the year in an East Coast location vs a location on the West Coast? We can also look at other variables such as precipitation and weather conditions and see how they change depending on season/month.
+
+# Data 
+
+There are many government sites that contain information about the temperature and past temperatures. For example, the National Oceanic and Atmospheric Administration in accordance with the National Centers for Environmental Information contains a record of information that can be used. We will most likely be using downloading ".csv" files because the files with a large amount of information tend to be in this format. Any difficulties with wrangling are most likely going to be due to the large number of observations in the dataset and/or combining multiple datasets. We will be joining multiple files from multiple sources (because other sites have different climate information for cities). We will have to be joining multiple datasets from different cities into a large dataset that we can use for creating visuals for comparisons.
+
+<!-- Identify one or more data sources that could be used in the project. What form is the data in (downloadable csv file? needs to be scraped from web?)? What do you imagine will be challenging about ingesting and/or wrangling the data? -->
+
+# Shiny app
+
+<!-- Describe some visualizations, tables, and/or other components you envision including in your Shiny app. What will the interactive components be? -->
+
+Most likely, we would do plots over time to show how our variable of interest changes over time. For example, if we do something with the temperature, we could have an interactive scatterplot where we can change the response variables. Additionally, we could look into comparisons between different cities where a user can input multiple cities from a pull-down menu and visualize the differences in a variable such as precipitation.
+
+The scatterplot will have time as the explanatory variable and average temperature as the response variable. The pull-down menu of different cites would allow a user to see the relationship between time of the year and temperature for multiple cities. This will be interactive because the user can select and deselect different cities to compare.
+
+

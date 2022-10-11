@@ -1,0 +1,1109 @@
+year,precipitation,city
+1936,46.27,boston
+1937,43.23,boston
+1938,49.17,boston
+1939,32.45,boston
+1940,35.99,boston
+1941,30.87,boston
+1942,42.46,boston
+1943,32.25,boston
+1944,37.07,boston
+1945,47.3,boston
+1946,38.07,boston
+1947,37.91,boston
+1948,40.51,boston
+1949,31.45,boston
+1950,32.7,boston
+1951,46.97,boston
+1952,40.6,boston
+1953,57.73,boston
+1954,62.32,boston
+1955,56.5,boston
+1956,47.39,boston
+1957,33.92,boston
+1958,61.65,boston
+1959,51.41,boston
+1960,44.46,boston
+1961,47.84,boston
+1962,43.23,boston
+1963,34.84,boston
+1964,36.47,boston
+1965,23.71,boston
+1966,36.01,boston
+1967,47.6,boston
+1968,42.28,boston
+1969,47.78,boston
+1970,41.91,boston
+1971,35.67,boston
+1972,53.11,boston
+1973,42.75,boston
+1974,40.24,boston
+1975,45.79,boston
+1976,36.72,boston
+1977,44.17,boston
+1978,37.64,boston
+1979,44.17,boston
+1980,29.39,boston
+1981,35.71,boston
+1982,44.61,boston
+1983,53.6,boston
+1984,50.24,boston
+1985,36.59,boston
+1986,44.33,boston
+1987,45.48,boston
+1988,34.78,boston
+1989,42.42,boston
+1990,46.5,boston
+1991,42.25,boston
+1992,43.72,boston
+1993,43.21,boston
+1994,47.62,boston
+1995,35.1,boston
+1996,52.52,boston
+1997,30.39,boston
+1998,53.67,boston
+1999,37.91,boston
+2000,45.6,boston
+2001,30.72,boston
+2002,41.07,boston
+2004,44.57,boston
+2005,43.67,boston
+2006,52.89,boston
+2007,39.47,boston
+2008,54.46,boston
+2009,43.49,boston
+2010,49.66,boston
+2011,52.39,boston
+2012,36.73,boston
+2013,40.36,boston
+2014,45.25,boston
+2015,34.8,boston
+2016,33.05,boston
+2017,43.45,boston
+2018,53.32,boston
+2019,50.38,boston
+2020,37.54,boston
+2021,52.33,boston
+1894,41.07,seattle
+1895,29.69,seattle
+1896,42.74,seattle
+1897,41.53,seattle
+1898,29.18,seattle
+1899,37.13,seattle
+1900,36.48,seattle
+1901,30.18,seattle
+1902,45.78,seattle
+1903,34.55,seattle
+1904,37.73,seattle
+1905,34.35,seattle
+1906,36.67,seattle
+1907,29.1,seattle
+1908,28.25,seattle
+1909,31.72,seattle
+1910,34.19,seattle
+1911,21.69,seattle
+1912,35.14,seattle
+1913,24.59,seattle
+1914,31.43,seattle
+1915,33.83,seattle
+1916,34.61,seattle
+1917,28.9,seattle
+1918,29.21,seattle
+1919,31.34,seattle
+1920,32.21,seattle
+1921,39.81,seattle
+1922,24.88,seattle
+1923,27.89,seattle
+1924,30.73,seattle
+1925,25.78,seattle
+1926,26.12,seattle
+1927,32.85,seattle
+1928,25.85,seattle
+1929,20.03,seattle
+1930,21.78,seattle
+1931,36.08,seattle
+1932,34.17,seattle
+1933,44.91,seattle
+1935,31.65,seattle
+1936,31.04,seattle
+1937,42.59,seattle
+1938,23.08,seattle
+1939,31.34,seattle
+1940,34.76,seattle
+1941,34.76,seattle
+1942,31.1,seattle
+1943,24.94,seattle
+1944,19.85,seattle
+1945,39.32,seattle
+1946,34.57,seattle
+1947,34.56,seattle
+1948,42.23,seattle
+1949,30.25,seattle
+1950,46.95,seattle
+1951,34.58,seattle
+1952,19.52,seattle
+1953,38.13,seattle
+1954,38.19,seattle
+1955,35.59,seattle
+1956,32.11,seattle
+1957,32.11,seattle
+1958,36.21,seattle
+1959,37.91,seattle
+1960,36.62,seattle
+1961,38.97,seattle
+1962,30.52,seattle
+1963,33.53,seattle
+1964,37.06,seattle
+1965,33.01,seattle
+1966,37.88,seattle
+1967,33.46,seattle
+1968,48.14,seattle
+1969,35.39,seattle
+1970,37.04,seattle
+1971,37.79,seattle
+1973,35.01,seattle
+1974,38.94,seattle
+1975,45,seattle
+1976,27.78,seattle
+1977,38.33,seattle
+1978,36.26,seattle
+1979,34.87,seattle
+1980,40.3,seattle
+1981,39.77,seattle
+1982,41.76,seattle
+1983,46.11,seattle
+1984,38.61,seattle
+1985,28.54,seattle
+1986,40.88,seattle
+1987,31.59,seattle
+1988,32.62,seattle
+1989,32.7,seattle
+1990,39.77,seattle
+1991,34.31,seattle
+1992,34.65,seattle
+1993,29.54,seattle
+1994,34.85,seattle
+1995,42.94,seattle
+1996,51.56,seattle
+1997,45.37,seattle
+2000,28.76,seattle
+2001,36.82,seattle
+2002,28.42,seattle
+2004,31.21,seattle
+2005,34.53,seattle
+2006,45.05,seattle
+2007,31.83,seattle
+2008,30.46,seattle
+2009,35.75,seattle
+2010,42.57,seattle
+2011,34.25,seattle
+2012,46.91,seattle
+2013,29.76,seattle
+2014,46.77,seattle
+2015,39.35,seattle
+2016,45.03,seattle
+2017,44.83,seattle
+2018,37.26,seattle
+2019,31.27,seattle
+2020,44.57,seattle
+2021,40,seattle
+1869,45.25,nyc
+1870,39.25,nyc
+1871,51.38,nyc
+1872,43.99,nyc
+1873,47.99,nyc
+1874,45.83,nyc
+1875,40.67,nyc
+1876,41.77,nyc
+1877,40.18,nyc
+1878,48.66,nyc
+1879,39.03,nyc
+1880,36.64,nyc
+1881,36.26,nyc
+1882,45.3,nyc
+1883,35.77,nyc
+1884,52.25,nyc
+1885,35.37,nyc
+1886,39.38,nyc
+1887,43.99,nyc
+1888,53.32,nyc
+1889,58.18,nyc
+1890,45.63,nyc
+1891,39.43,nyc
+1892,35.6,nyc
+1893,48.26,nyc
+1894,40.42,nyc
+1895,35.37,nyc
+1896,41.96,nyc
+1897,44.55,nyc
+1898,47.9,nyc
+1899,38.57,nyc
+1900,41.19,nyc
+1901,48.69,nyc
+1902,52.77,nyc
+1903,58.32,nyc
+1904,41.64,nyc
+1905,37.44,nyc
+1906,40.15,nyc
+1907,46.74,nyc
+1908,41.05,nyc
+1909,41.67,nyc
+1910,33.72,nyc
+1911,48.82,nyc
+1912,45.58,nyc
+1913,58,nyc
+1914,40.07,nyc
+1915,45.73,nyc
+1916,37.9,nyc
+1917,41.04,nyc
+1918,38.27,nyc
+1919,53.29,nyc
+1920,53.2,nyc
+1921,37.76,nyc
+1922,44.66,nyc
+1923,40.57,nyc
+1924,41.72,nyc
+1925,41.43,nyc
+1926,47.83,nyc
+1927,56.06,nyc
+1928,45.62,nyc
+1929,40.38,nyc
+1930,38.95,nyc
+1931,36.07,nyc
+1932,43.93,nyc
+1933,53.53,nyc
+1934,49.84,nyc
+1935,33.85,nyc
+1936,49.83,nyc
+1937,52.97,nyc
+1938,48.49,nyc
+1939,38.55,nyc
+1940,45.07,nyc
+1941,39.04,nyc
+1942,48.51,nyc
+1943,36.74,nyc
+1944,45.01,nyc
+1945,44.98,nyc
+1946,38.36,nyc
+1947,40.79,nyc
+1948,46.87,nyc
+1949,36.22,nyc
+1950,36.89,nyc
+1951,43.76,nyc
+1952,41.56,nyc
+1953,45.2,nyc
+1954,35.58,nyc
+1955,39.9,nyc
+1956,36.25,nyc
+1957,36.49,nyc
+1958,40.94,nyc
+1959,38.77,nyc
+1960,46.39,nyc
+1961,39.32,nyc
+1962,37.15,nyc
+1963,34.28,nyc
+1964,32.99,nyc
+1965,26.09,nyc
+1966,39.9,nyc
+1967,49.12,nyc
+1968,43.57,nyc
+1969,48.54,nyc
+1970,35.29,nyc
+1971,56.77,nyc
+1972,67.03,nyc
+1973,57.23,nyc
+1974,47.69,nyc
+1975,61.21,nyc
+1976,41.28,nyc
+1977,54.73,nyc
+1978,49.81,nyc
+1979,52.13,nyc
+1980,44.55,nyc
+1981,38.11,nyc
+1982,41.4,nyc
+1983,80.56,nyc
+1984,57.03,nyc
+1985,38.82,nyc
+1986,42.95,nyc
+1987,46.44,nyc
+1988,44.67,nyc
+1989,65.11,nyc
+1990,60.92,nyc
+1991,45.18,nyc
+1992,43.35,nyc
+1993,44.28,nyc
+1994,47.39,nyc
+1995,40.42,nyc
+1996,56.19,nyc
+1997,43.93,nyc
+1998,48.69,nyc
+1999,41.51,nyc
+2000,45.45,nyc
+2001,35.65,nyc
+2002,45.2,nyc
+2003,58.42,nyc
+2004,51.93,nyc
+2005,55.97,nyc
+2006,59.89,nyc
+2007,61.67,nyc
+2008,53.61,nyc
+2009,53.62,nyc
+2010,49.37,nyc
+2011,72.81,nyc
+2012,38.51,nyc
+2013,46.32,nyc
+2014,53.79,nyc
+2015,40.97,nyc
+2016,42.17,nyc
+2017,45.04,nyc
+2018,65.55,nyc
+2019,53.03,nyc
+2020,45.35,nyc
+2021,59.73,nyc
+1954,12.62,anchorage
+1955,18.55,anchorage
+1956,16.13,anchorage
+1957,12.49,anchorage
+1958,16.1,anchorage
+1959,16.23,anchorage
+1960,14.51,anchorage
+1961,19.27,anchorage
+1962,14.57,anchorage
+1963,18.11,anchorage
+1964,15.89,anchorage
+1965,16.5,anchorage
+1966,12.25,anchorage
+1967,19.16,anchorage
+1968,12.08,anchorage
+1969,8.08,anchorage
+1970,13.09,anchorage
+1971,14.89,anchorage
+1972,14.63,anchorage
+1973,10.68,anchorage
+1974,13.42,anchorage
+1975,13.04,anchorage
+1976,14.54,anchorage
+1977,15.51,anchorage
+1978,14.75,anchorage
+1979,21.15,anchorage
+1980,19.17,anchorage
+1981,21.34,anchorage
+1982,17.68,anchorage
+1983,12.16,anchorage
+1984,14.97,anchorage
+1985,15.51,anchorage
+1986,18.95,anchorage
+1987,14.93,anchorage
+1988,14.32,anchorage
+1989,27.55,anchorage
+1990,19.01,anchorage
+1991,17.31,anchorage
+1992,14.44,anchorage
+1993,16.89,anchorage
+1994,13.12,anchorage
+1995,13.76,anchorage
+1996,14.46,anchorage
+1997,19.48,anchorage
+1998,11.52,anchorage
+1999,17.97,anchorage
+2000,14.62,anchorage
+2001,12.53,anchorage
+2002,18.05,anchorage
+2003,15.69,anchorage
+2004,19.27,anchorage
+2005,14.04,anchorage
+2006,17.69,anchorage
+2007,13.61,anchorage
+2008,16.13,anchorage
+2009,12.52,anchorage
+2010,15.51,anchorage
+2011,16.42,anchorage
+2012,20.25,anchorage
+2013,23.97,anchorage
+2014,18.28,anchorage
+2015,18.95,anchorage
+2016,16.48,anchorage
+2017,18.66,anchorage
+2018,18.44,anchorage
+2019,14.56,anchorage
+2020,17.22,anchorage
+2021,15.44,anchorage
+1900,52.68,amherst
+1903,43.73,amherst
+1909,39.13,amherst
+1912,38.56,amherst
+1916,45.24,amherst
+1918,37.47,amherst
+1919,41.61,amherst
+1921,42.22,amherst
+1922,45.94,amherst
+1924,30.96,amherst
+1926,40.92,amherst
+1927,46.98,amherst
+1928,39.9,amherst
+1929,40.96,amherst
+1930,32.82,amherst
+1931,45.18,amherst
+1932,39.43,amherst
+1933,50.23,amherst
+1934,45.58,amherst
+1935,34.08,amherst
+1936,48.14,amherst
+1937,49.48,amherst
+1938,58.83,amherst
+1939,38.65,amherst
+1940,43.57,amherst
+1941,33.93,amherst
+1942,47.85,amherst
+1943,39.45,amherst
+1944,39.3,amherst
+1945,49.49,amherst
+1946,38.61,amherst
+1947,38.32,amherst
+1948,40.03,amherst
+1949,34.25,amherst
+1951,42.5,amherst
+1952,40.61,amherst
+1953,49.77,amherst
+1954,43.24,amherst
+1955,55.46,amherst
+1956,40.31,amherst
+1957,33.47,amherst
+1958,41.41,amherst
+1962,33.02,amherst
+1964,29.55,amherst
+1965,30.17,amherst
+1966,36.77,amherst
+1967,43.03,amherst
+1968,38.64,amherst
+1969,43.94,amherst
+1970,39.09,amherst
+1971,38.72,amherst
+1972,51.96,amherst
+1973,47.26,amherst
+1974,44.67,amherst
+1975,60.25,amherst
+1976,39.63,amherst
+1977,55.79,amherst
+1978,34.59,amherst
+1981,39.67,amherst
+1983,57.27,amherst
+1984,46.9,amherst
+1987,42.08,amherst
+1988,37.89,amherst
+1990,49.51,amherst
+1991,49.83,amherst
+1992,40.51,amherst
+1993,40.65,amherst
+1995,41.64,amherst
+1996,56.74,amherst
+1997,35.86,amherst
+1998,40.71,amherst
+2000,53.61,amherst
+2001,35.38,amherst
+2002,42.55,amherst
+2003,55.67,amherst
+2004,44.71,amherst
+2005,55,amherst
+2007,41.13,amherst
+2008,63.41,amherst
+2010,42.09,amherst
+2011,62.57,amherst
+2012,40.38,amherst
+2013,45.1,amherst
+2014,48.78,amherst
+2015,41.8,amherst
+2016,32.83,amherst
+2017,43.22,amherst
+2018,63.62,amherst
+2019,44.96,amherst
+2020,42.84,amherst
+2021,53.48,amherst
+1871,36.61,chicago
+1872,29.07,chicago
+1873,36.41,chicago
+1874,28.73,chicago
+1875,38.06,chicago
+1876,36.48,chicago
+1877,41.01,chicago
+1878,41.95,chicago
+1879,30.71,chicago
+1880,37.32,chicago
+1881,42.48,chicago
+1882,41.34,chicago
+1883,45.86,chicago
+1884,34.78,chicago
+1885,44.37,chicago
+1886,26.77,chicago
+1887,29.13,chicago
+1888,30.86,chicago
+1889,34.95,chicago
+1890,32.69,chicago
+1891,26.54,chicago
+1892,36.56,chicago
+1893,27.47,chicago
+1894,27.45,chicago
+1895,32.32,chicago
+1896,32.96,chicago
+1897,25.86,chicago
+1898,33.77,chicago
+1899,27.23,chicago
+1900,28.65,chicago
+1901,24.53,chicago
+1902,37.57,chicago
+1903,28.09,chicago
+1904,26.14,chicago
+1905,35.36,chicago
+1906,30.87,chicago
+1907,35.1,chicago
+1908,34.83,chicago
+1909,43.22,chicago
+1910,26.86,chicago
+1911,33.83,chicago
+1912,29.67,chicago
+1913,27.11,chicago
+1914,28.61,chicago
+1915,33.34,chicago
+1916,34.05,chicago
+1917,24.66,chicago
+1918,33.25,chicago
+1919,33.49,chicago
+1920,30.21,chicago
+1921,36.1,chicago
+1922,31.57,chicago
+1923,32.48,chicago
+1924,34.96,chicago
+1925,28.33,chicago
+1926,35.46,chicago
+1927,39.55,chicago
+1928,33.92,chicago
+1929,36.81,chicago
+1930,23.34,chicago
+1931,39.29,chicago
+1932,31.86,chicago
+1933,32,chicago
+1934,22.78,chicago
+1935,37.73,chicago
+1936,29.58,chicago
+1937,26.98,chicago
+1938,34.81,chicago
+1939,27.51,chicago
+1940,26.74,chicago
+1941,35.29,chicago
+1942,35.66,chicago
+1943,32.6,chicago
+1944,26.86,chicago
+1945,37.46,chicago
+1946,31.38,chicago
+1947,39.21,chicago
+1948,31.56,chicago
+1949,33.74,chicago
+1950,39.75,chicago
+1951,43.15,chicago
+1952,28.29,chicago
+1953,30.15,chicago
+1954,45.92,chicago
+1955,30.96,chicago
+1956,22.23,chicago
+1957,44.29,chicago
+1958,26.35,chicago
+1959,38.68,chicago
+1960,27.84,chicago
+1961,42.9,chicago
+1962,22.22,chicago
+1963,28.02,chicago
+1964,26.95,chicago
+1965,42.05,chicago
+1966,36.76,chicago
+1967,41.1,chicago
+1968,29.73,chicago
+1969,36.78,chicago
+1970,46.09,chicago
+1971,29.58,chicago
+1972,41.19,chicago
+1973,37.99,chicago
+1974,37.53,chicago
+1975,42.05,chicago
+1976,33.98,chicago
+1977,41.29,chicago
+1978,33.51,chicago
+1979,38.04,chicago
+1980,38.07,chicago
+1981,39.19,chicago
+1982,44.68,chicago
+1983,49.35,chicago
+1984,34,chicago
+1985,40.07,chicago
+1986,31.73,chicago
+1987,41.35,chicago
+1988,33.36,chicago
+1989,29.45,chicago
+1990,43.12,chicago
+1991,35.02,chicago
+1992,30.12,chicago
+1993,44.9,chicago
+1994,29.59,chicago
+1995,32.88,chicago
+1996,30.72,chicago
+1997,31.71,chicago
+1998,37.53,chicago
+1999,38.25,chicago
+2000,33.36,chicago
+2001,45.77,chicago
+2002,33.92,chicago
+2003,32.02,chicago
+2004,31.58,chicago
+2005,24.09,chicago
+2006,41.95,chicago
+2007,35.8,chicago
+2008,50.86,chicago
+2009,42.57,chicago
+2010,37.61,chicago
+2011,49.83,chicago
+2012,26.91,chicago
+2013,42.09,chicago
+2014,39.47,chicago
+2015,39.85,chicago
+2016,35.97,chicago
+2017,43.1,chicago
+2018,49.23,chicago
+2019,49.54,chicago
+2020,39.22,chicago
+2021,30.15,chicago
+1914,40.85,dallas
+1915,35.21,dallas
+1916,31.89,dallas
+1917,23.72,dallas
+1918,44.41,dallas
+1919,42.43,dallas
+1920,47.22,dallas
+1921,24.57,dallas
+1922,38.16,dallas
+1923,43.03,dallas
+1924,23.62,dallas
+1925,30.65,dallas
+1926,38.55,dallas
+1927,38.69,dallas
+1928,33.01,dallas
+1929,28.4,dallas
+1930,30.86,dallas
+1931,25.44,dallas
+1932,38.34,dallas
+1933,30.69,dallas
+1934,23.15,dallas
+1935,32.67,dallas
+1936,25.98,dallas
+1937,33.22,dallas
+1938,28.17,dallas
+1939,28.51,dallas
+1940,44.57,dallas
+1941,39.37,dallas
+1942,42.71,dallas
+1943,22.94,dallas
+1944,42.57,dallas
+1945,44.93,dallas
+1946,49.19,dallas
+1947,39.62,dallas
+1948,28.03,dallas
+1949,44.05,dallas
+1950,38.9,dallas
+1951,28.01,dallas
+1952,28.41,dallas
+1953,25.31,dallas
+1954,26.43,dallas
+1955,22.41,dallas
+1956,21.75,dallas
+1957,55.14,dallas
+1958,32.88,dallas
+1959,38.78,dallas
+1960,41.74,dallas
+1961,39.99,dallas
+1962,54.74,dallas
+1963,17.52,dallas
+1964,37.47,dallas
+1965,35.5,dallas
+1966,42.97,dallas
+1967,27.76,dallas
+1968,36.19,dallas
+1969,38.55,dallas
+1970,34.34,dallas
+1971,40.75,dallas
+1972,24.36,dallas
+1973,47.96,dallas
+1974,42.68,dallas
+1975,28.07,dallas
+1976,37.8,dallas
+1977,30.76,dallas
+1978,25.59,dallas
+1979,37.99,dallas
+1980,22.67,dallas
+1981,55.31,dallas
+1982,42.58,dallas
+1983,30.2,dallas
+1984,39.33,dallas
+1985,29.95,dallas
+1986,32.4,dallas
+1987,28.58,dallas
+1988,27.64,dallas
+1989,46.06,dallas
+1990,46.81,dallas
+1991,51.69,dallas
+1992,43.17,dallas
+1993,35.47,dallas
+1994,48.2,dallas
+1995,35.6,dallas
+1996,30.87,dallas
+1997,49.48,dallas
+1998,36.78,dallas
+1999,27.52,dallas
+2000,39.03,dallas
+2001,35.3,dallas
+2002,36.93,dallas
+2003,21.58,dallas
+2004,42.71,dallas
+2005,18.57,dallas
+2006,38.36,dallas
+2007,48.83,dallas
+2008,28.82,dallas
+2009,45.81,dallas
+2010,34.33,dallas
+2011,28.32,dallas
+2012,31.5,dallas
+2013,33.65,dallas
+2014,22.48,dallas
+2015,68.02,dallas
+2016,38.48,dallas
+2017,33.23,dallas
+2018,55.29,dallas
+2019,39.62,dallas
+2020,49.18,dallas
+2021,37.24,dallas
+1941,6.82,honolulu
+1943,20.67,honolulu
+1944,13.54,honolulu
+1945,11.7,honolulu
+1946,18.39,honolulu
+1947,12.18,honolulu
+1948,20.65,honolulu
+1950,31.68,honolulu
+1951,39.73,honolulu
+1952,10.65,honolulu
+1953,9.97,honolulu
+1954,27.3,honolulu
+1955,37.86,honolulu
+1956,21.23,honolulu
+1957,24.22,honolulu
+1958,35.02,honolulu
+1959,14.14,honolulu
+1960,12.07,honolulu
+1961,14.26,honolulu
+1962,13.58,honolulu
+1963,37.91,honolulu
+1964,20.12,honolulu
+1965,42.78,honolulu
+1966,23.18,honolulu
+1967,34.34,honolulu
+1968,37.26,honolulu
+1969,22.5,honolulu
+1970,15.49,honolulu
+1971,26.64,honolulu
+1972,26.94,honolulu
+1973,14.24,honolulu
+1974,24.02,honolulu
+1975,24.39,honolulu
+1976,12.9,honolulu
+1977,12.36,honolulu
+1978,25.05,honolulu
+1979,16.93,honolulu
+1980,26.9,honolulu
+1981,13.41,honolulu
+1982,34.92,honolulu
+1983,5.03,honolulu
+1984,17.08,honolulu
+1985,17.38,honolulu
+1986,13.93,honolulu
+1987,23.53,honolulu
+1988,16.47,honolulu
+1989,27.52,honolulu
+1990,19.84,honolulu
+1991,17.94,honolulu
+1992,19,honolulu
+1993,5.84,honolulu
+1994,15.59,honolulu
+1995,13.6,honolulu
+1996,33.12,honolulu
+1997,19.99,honolulu
+1998,4.52,honolulu
+1999,11.99,honolulu
+2000,7.1,honolulu
+2001,9.14,honolulu
+2002,12.22,honolulu
+2003,12.69,honolulu
+2004,39.01,honolulu
+2005,15.6,honolulu
+2006,29.45,honolulu
+2007,11.99,honolulu
+2008,14.76,honolulu
+2009,11.55,honolulu
+2010,17.4,honolulu
+2011,15.69,honolulu
+2012,8.58,honolulu
+2013,16.18,honolulu
+2014,20.82,honolulu
+2015,21.04,honolulu
+2016,13.16,honolulu
+2017,22.62,honolulu
+2018,16.95,honolulu
+2019,16.61,honolulu
+2020,13.65,honolulu
+2021,21.34,honolulu
+1878,20.86,los angeles
+1879,17.41,los angeles
+1880,18.65,los angeles
+1881,5.53,los angeles
+1882,10.74,los angeles
+1883,14.14,los angeles
+1884,40.29,los angeles
+1885,10.53,los angeles
+1886,16.72,los angeles
+1887,16.02,los angeles
+1888,20.82,los angeles
+1889,33.26,los angeles
+1890,12.69,los angeles
+1891,12.84,los angeles
+1892,18.72,los angeles
+1893,21.96,los angeles
+1894,7.51,los angeles
+1895,12.55,los angeles
+1896,11.8,los angeles
+1897,14.28,los angeles
+1898,4.83,los angeles
+1899,8.69,los angeles
+1900,11.3,los angeles
+1901,11.96,los angeles
+1902,13.12,los angeles
+1903,14.77,los angeles
+1904,11.88,los angeles
+1905,19.19,los angeles
+1912,9.75,los angeles
+1915,16.67,los angeles
+1916,23.29,los angeles
+1917,8.45,los angeles
+1918,17.49,los angeles
+1919,8.82,los angeles
+1920,11.18,los angeles
+1921,19.91,los angeles
+1923,6.25,los angeles
+1924,8.11,los angeles
+1927,18.63,los angeles
+1929,8.32,los angeles
+1930,14,los angeles
+1931,18.93,los angeles
+1932,10.72,los angeles
+1933,18.72,los angeles
+1934,14.67,los angeles
+1935,14.49,los angeles
+1936,18.24,los angeles
+1937,17.97,los angeles
+1939,12.06,los angeles
+1940,20.01,los angeles
+1942,8.4,los angeles
+1943,22.57,los angeles
+1944,17.43,los angeles
+1945,12.78,los angeles
+1946,16.7,los angeles
+1947,4.08,los angeles
+1948,7.59,los angeles
+1949,10.63,los angeles
+1950,7.38,los angeles
+1951,14.33,los angeles
+1952,24.95,los angeles
+1953,4.08,los angeles
+1954,13.69,los angeles
+1955,11.89,los angeles
+1956,13.62,los angeles
+1957,13.24,los angeles
+1958,17.49,los angeles
+1959,6.23,los angeles
+1960,9.57,los angeles
+1961,5.83,los angeles
+1962,15.37,los angeles
+1963,12.31,los angeles
+1964,7.98,los angeles
+1965,26.81,los angeles
+1966,12.91,los angeles
+1967,23.66,los angeles
+1968,7.58,los angeles
+1969,26.32,los angeles
+1970,16.54,los angeles
+1971,9.26,los angeles
+1972,6.54,los angeles
+1973,17.45,los angeles
+1974,16.69,los angeles
+1975,10.7,los angeles
+1976,11.01,los angeles
+1977,14.97,los angeles
+1978,30.57,los angeles
+1979,17,los angeles
+1980,26.33,los angeles
+1981,10.92,los angeles
+1982,14.41,los angeles
+1983,34.04,los angeles
+1984,8.9,los angeles
+1985,8.92,los angeles
+1986,18,los angeles
+1987,9.11,los angeles
+1988,11.63,los angeles
+1989,4.56,los angeles
+1990,6.49,los angeles
+1991,15.07,los angeles
+1992,22.65,los angeles
+1993,23.5,los angeles
+1994,8.66,los angeles
+1995,23.65,los angeles
+1996,17.75,los angeles
+1997,10.69,los angeles
+1998,27.85,los angeles
+1999,8.06,los angeles
+2000,11.93,los angeles
+2001,19.6,los angeles
+2002,7.35,los angeles
+2003,13.37,los angeles
+2004,20.1,los angeles
+2005,26.61,los angeles
+2006,11.61,los angeles
+2007,5.66,los angeles
+2008,14.43,los angeles
+2009,9.39,los angeles
+2010,23.09,los angeles
+2011,12.26,los angeles
+2012,8.15,los angeles
+2013,3.6,los angeles
+2014,9.77,los angeles
+2015,7.66,los angeles
+2016,11.8,los angeles
+2017,13.24,los angeles
+2018,8.86,los angeles
+2019,21.55,los angeles
+2020,9.81,los angeles
+2021,14.27,los angeles
+1898,49.58,miami
+1902,44.38,miami
+1904,63.47,miami
+1905,65.18,miami
+1906,72.01,miami
+1907,33.15,miami
+1908,85.36,miami
+1909,76.78,miami
+1910,51.97,miami
+1911,54.12,miami
+1912,68.37,miami
+1913,51.27,miami
+1914,46.56,miami
+1915,54.96,miami
+1916,42.68,miami
+1917,47.82,miami
+1918,43.33,miami
+1919,60.04,miami
+1920,47.61,miami
+1921,44.37,miami
+1922,67.57,miami
+1923,41.85,miami
+1924,65.54,miami
+1925,71.93,miami
+1926,64.66,miami
+1927,33.69,miami
+1928,55.31,miami
+1929,84.38,miami
+1930,73.51,miami
+1931,60.87,miami
+1932,79.9,miami
+1933,66.05,miami
+1934,68.79,miami
+1935,47.91,miami
+1936,77.3,miami
+1937,60.88,miami
+1938,43.74,miami
+1939,72.62,miami
+1940,67.12,miami
+1941,63.34,miami
+1942,68.87,miami
+1943,62.45,miami
+1944,40.19,miami
+1945,42.28,miami
+1946,55.44,miami
+1947,78.4,miami
+1948,78.79,miami
+1949,62.14,miami
+1950,49.47,miami
+1951,38.67,miami
+1952,48.94,miami
+1953,65.15,miami
+1954,62.26,miami
+1955,41.35,miami
+1956,37.05,miami
+1957,70.87,miami
+1958,71.92,miami
+1959,89.33,miami
+1960,70.26,miami
+1961,41.7,miami
+1962,42.27,miami
+1963,46.08,miami
+1964,60.2,miami
+1965,58.4,miami
+1966,82.06,miami
+1967,66.22,miami
+1968,83.39,miami
+1969,71.49,miami
+1970,44.72,miami
+1971,50.72,miami
+1972,63.11,miami
+1973,53.24,miami
+1974,49,miami
+1975,39.1,miami
+1976,55.9,miami
+1977,64.95,miami
+1978,45.83,miami
+1979,60.11,miami
+1980,57.34,miami
+1981,50.79,miami
+1982,67.41,miami
+1983,57.42,miami
+1984,60.02,miami
+1985,56.26,miami
+1986,66.12,miami
+1987,50.27,miami
+1988,44.59,miami
+1989,42.63,miami
+1990,51.71,miami
+1991,71.42,miami
+1992,57.82,miami
+1993,62.79,miami
+1994,79.56,miami
+1995,79.3,miami
+1996,57.71,miami
+1997,70.61,miami
+1998,70.23,miami
+1999,64.09,miami
+2000,61.05,miami
+2001,72.03,miami
+2002,63.29,miami
+2003,72.13,miami
+2004,54.44,miami
+2005,68.21,miami
+2006,64.17,miami
+2007,63.97,miami
+2008,60.27,miami
+2009,52.09,miami
+2010,65.1,miami
+2011,63.78,miami
+2012,86.94,miami
+2013,70.42,miami
+2014,63.6,miami
+2015,62.07,miami
+2016,65.93,miami
+2017,83.12,miami
+2018,61.45,miami
+2019,67.15,miami
+2020,86.57,miami
+2021,61.27,miami

@@ -1,0 +1,87 @@
+---
+title: "Shiny Tutorial Instructions"
+output: 
+  pdf_document:
+    fig_height: 3
+    fig_width: 5
+---
+
+```{r include = FALSE}
+library(kableExtra)
+```
+
+The instructions here are adapted from Stat 231 assignments from previous course instructors. 
+
+# Tutorial
+
+The Shiny Tutorial video is a recording from an older webinar series, so the slides and code are not at the bitly link provided in the video, and you can ignore references to that, and obviously the dates of the webinar are meaningless. 
+
+All the code and slides from the tutorial are included in the tutorial folder. The files are from the corresponding [Shiny tutorial repo](https://github.com/rstudio-education/shiny.rstudio.com-tutorial). The slides for each part below are in the slides sub-folder of the tutorial folder. The code has separate sub-folders for each part, referenced below. 
+
+I recommend that you use the **Files** pane in RStudio to navigate to the individual R scripts in tandem with the video tutorial to run the code along with the speaker. All the code is provided - make use of it!
+
+There are 3 parts to the Shiny tutorial, and all 3 parts are in the same 2.5-hour video. You can power through all three in one sitting, or use the embedded time-stamped links in this document that will allow you to jump to Part 2 and Part 3 when you're ready, if you want to break up the tutorial a bit. 
+
+Keep track of your questions, big and small, as they come up while you are coding along with the video and taking notes. It's possible a question you have early on will be answered as you continue watching the video. Your groupmates may be able to help you figure out answers too!
+
+
+# Part 1  - How to build a Shiny app (25 - 30 minutes)
+
+Watch [Part 1](https://player.vimeo.com/video/131218530#t=33s) of the tutorial. After the demonstration of the second shiny app script (`02-hist-app.R`), skip over the "Share your app" sections and jump to the [40-minute mark](https://player.vimeo.com/video/131218530#t=40m02s)) to watch the brief recap of Part 1.Feel free to modify either the R script files themselves or to copy and paste the code into this document to get practice.
+
+The code for Part 1 of the webinar is in the`part-1-code` subfolder of the tutorial folder.
+
+R script files:
+
+* 01-template.R 
+* 02-hist-app.R 
+* app.R 
+
+The speaker says you need to select, copy, and paste the code into the Console, but RStudio makes this process much easier these days with the a big "Run App" button! 
+
+When it comes time in the tutorial, open the R script as indicated, code along with the video, and click the "Run App" button in the top right of the R script window pane to automatically run the code and open the Shiny app.
+
+
+# Part 2 - How to customize reactions (50 - 60 minutes)
+
+Continue on to [Part 2](https://player.vimeo.com/video/131218530#t=43m32s) of the tutorial (starting at 43:32).
+
+The code for Part 2 of the webinar is in the`part-2-code` subfolder of the tutorial folder.
+
+R script files for Part 2:
+
+* 01-two-inputs.R
+* 02-two-outputs.R
+* 03-reactive.R
+* 04-isolate.R
+* 05-actionButton.R
+* 06-observeEvent.R
+* 07-eventReactive.R
+* 08-reactiveValues.R
+
+As before, when it comes time in the tutorial, open the R script as indicated, code along with the video, and click the "Run App" button in the top right of the R script window pane to automatically run the code and open the Shiny app.
+
+
+
+# Part 3 - How to customize appearance (40 - 50 minutes)
+
+Continue on to [Part 3](https://player.vimeo.com/video/131218530#t=1h33m41s) of the tutorial (starting at 1:33:41). Skip over the *Style with CSS" section, and jump to  the [2:24:35 mark](https://player.vimeo.com/video/131218530#t=2h24m35s) to wrap up the webinar! 
+
+The code for Part 3 of the webinar is in the`part-3-code` subfolder of the tutorial folder.
+
+The files for Part 3:
+
+* App-Directory
+* 01-tags.html
+* 02-tags.R
+* 03-layout.R
+* 04-well.R
+* 05-tabs.R
+* 06-navlist.R
+* 07-sidebar.R
+* 08-navbarPage.R
+* 09-navbarMenu.R
+* 10-CSS.html
+* bootswatch-cerulean.css
+
+As above, when it comes time in the tutorial, open the file as indicated to view the contents, or code along with the video and run the Shiny app script by clicking the "Run App" button in the top right of the R script window pane.
